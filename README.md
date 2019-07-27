@@ -5,7 +5,7 @@
 ```관련주소: https://```
 
 - [time_series_analysis (시계열분석)](time_series_analysis/)
-    1. 시계열분석 실습      
+    - 시계열분석 실습      
         - 시계열데이터 pandas스킬, ARIMA, prophet
     - LSTM모델 실습
       - LSTM모델 간단실습, 케라스창시자에게 배우는 딥러닝 6장
