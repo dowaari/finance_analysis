@@ -26,8 +26,10 @@
         - 평균회귀전략
     
 - [paper_review (관련논문 리뷰)](paper_review/)
-    - RDash논문
-    - 거래량패턴논문
+    - A hybrid stock trading framework integrating technical analysis with machine learning techniques
+    , RajashreeDash, 2016
+    - 거래량 급감 패턴의 감독 학습에 기반한 단기 주가 예측, 이재원, 2018
+    
 
 - [stock_data_with_api (증권사API사용 데이터수집)](stock_data_with_api/)
     - 대신증권API사용하기
